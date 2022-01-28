@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#button{
+    width:90px;
+    border-radius: 20px;
+    height: 30px;
+    background-color:chartreuse;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
